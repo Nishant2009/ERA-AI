@@ -1,2 +1,2 @@
-# ERA-AI
-A simple AI to perform basic task on windows by voice commands
+# ERA AI
+ A simple AI project to do some basic works on voice commands
